@@ -7,7 +7,7 @@ public class Principal {
     
 	public static void main(String[] args) throws Exception {
 		// TODO Auto-generated method stub
-         largestProduct e = new largestProduct("C:\\Users\\Usuario\\eclipse-workspace\\Euler\\src\\text.txt" , 13);
+         largestProduct e = new largestProduct("C:\\Users\\Usuario\\eclipse-workspace\\Euler\\src\\text.txt" );
          e.getAnswer();
 	}
 
